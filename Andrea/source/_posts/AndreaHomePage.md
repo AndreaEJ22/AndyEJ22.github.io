@@ -18,4 +18,4 @@ Desarrollo de Software Interactivo y Videojuegos
 |Martes |Jueves |
 |11:00-13:00|11:00-13:00|
 |Total hrs|4hrs|
-
+.
